@@ -1,0 +1,6 @@
+{
+  "name": "DrishtiVaani - Voice & Vision Assistant",
+  "description": "Voice-first assistive tool empowering blind and low-vision users to understand medicine labels, bills, currency, signs, and objects with camera and Telugu voice.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
